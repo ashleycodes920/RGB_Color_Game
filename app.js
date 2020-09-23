@@ -1,13 +1,13 @@
-var numSquares = 6;
-var colors = generateRandomColors(numSquares);
-var square = document.querySelectorAll(".square");
-var pickedColor = pickColor();
-var rgbCode = document.getElementById("rgbCode");
-var messageDisplay = document.querySelector("#message");
-var h1 = document.querySelector("h1");
-var resetButton = document.querySelector("#reset");
-var easyBtn = document.querySelector("#easyBtn");
-var hardBtn = document.querySelector("#hardBtn");
+let numSquares = 6;
+let colors = generateRandomColors(numSquares);
+let square = document.querySelectorAll(".square");
+let pickedColor = pickColor();
+let rgbCode = document.getElementById("rgbCode");
+let messageDisplay = document.querySelector("#message");
+let h1 = document.querySelector("h1");
+let resetButton = document.querySelector("#reset");
+let easyBtn = document.querySelector("#easyBtn");
+let hardBtn = document.querySelector("#hardBtn");
 
 
 easyBtn.addEventListener("click", function(){
