@@ -52,7 +52,7 @@ resetButton.addEventListener("click", function(){
   for (var i = 0; i < square.length; i++) {
     square[i].style.background = colors[i];
   }
-  h1.style.background = "steelblue";
+  h1.style.backgroundImage = "url(images/bg005.png)";
 })
 
 rgbCode.textContent = pickedColor;
