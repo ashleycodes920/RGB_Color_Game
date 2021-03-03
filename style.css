@@ -4,7 +4,7 @@ body {
   font-family: sans-serif;
   font-weight: normal;
   text-transform: uppercase;
-  background-image: url("../../images/overlay.png"), linear-gradient(0deg, rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.1)), url("../../images/bg003.jpg");
+  background-image: url("../../images/overlay.png"), linear-gradient(0deg, rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.1)), url("../../images/bg003.png");
   background-size: auto, auto, 100% auto;
   background-position: center, center, center;
   background-repeat: repeat, no-repeat,	no-repeat;
@@ -34,7 +34,7 @@ h1 {
   line-height: 1.5;
   text-align: center;
   /* background-color: rgb(254, 113, 197); */
-  background-image: url("../../images/overlay.png"), linear-gradient(0deg, rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.1)), url("../../images/bg005.jpg");
+  background-image: url("../../images/overlay.png"), linear-gradient(0deg, rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.1)), url("../../images/bg005.png");
 			background-size: auto, auto, 100% auto;														100% auto;
 			background-position: center, center, top center;														 top center;
 			background-repeat: repeat, no-repeat ,no-repeat;													no-repeat;
